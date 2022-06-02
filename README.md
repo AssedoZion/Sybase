@@ -8,4 +8,6 @@ the sp will modify the thresholds definitions according to the new size (data or
 
 sp_fastrows will return the number of rows of all the tables of the specifiled db 
 
+sp_killemall will kill every connection for a fast shutdown
+
 
