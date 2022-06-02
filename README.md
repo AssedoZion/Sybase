@@ -10,4 +10,7 @@ sp_fastrows will return the number of rows of all the tables of the specifiled d
 
 sp_killemall will kill every connection for a fast shutdown
 
+sp_sybase_logcheck : Can be call from within a massive insert/update loop to keep after the log segment
+
+
 
